@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PPTP_VPN</string>
+    <string name="Username">username</string>
+    <string name="Password">password</string>
+    <string name="ipAddress">IP Address</string>
+    <string name="btConnect">Connect</string>
+</resources>
